@@ -17,7 +17,7 @@ Red Team, Offensive Security, Penetration Testing, Ethical Hacking, OSINT, Adver
 - 🏪 Formerly with **Lowe’s**, where I honed incident response, troubleshooting, and lateral thinking under pressure.
 - 🔑 Recently earned **CompTIA Security+** and **Microsoft Azure Fundamentals (AZ-900)**.
 - 🧪 Passionate about building, breaking, and documenting — from **vulnerability discovery** to **post-exploitation**.
-- 🌱 **Lifelong learner** — have been running homelab red team simulations outside GitHub, now rebuilding from the ground up to share work and attract opportunities.
+  
 
 ## Red Team Focus Areas
 - **Recon & OSINT**: Amass intel with tools like `theHarvester`, Maltego, Recon-ng
@@ -32,7 +32,7 @@ Red Team, Offensive Security, Penetration Testing, Ethical Hacking, OSINT, Adver
 ## Highlighted Labs & Projects
 - 🕵️ **Adversary Simulation Lab** — Simulate APT-style intrusion in homelab, from initial access to data exfil  
   Repo: [`adversary-sim-lab`](https://github.com/cybercat59/adversary-sim-lab)
-- 🐍 **Python Exploit Toolkit** — PoC scripts for enumeration, payload generation, and automation  
+- 🐍 **Python Exploit Toolkit** — PoC scripts f enumeration, payload generation, and automation  
   Repo: [`python-offsec-tools`](https://github.com/cybercat59/python-offsec-tools)
 - 🌐 **Web Exploitation Playground** — OWASP Top 10 attack practice with DVWA & Juice Shop  
   Repo: [`web-pentest-playground`](https://github.com/cybercat59/web-pentest-playground)
