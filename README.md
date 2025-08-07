@@ -6,40 +6,4 @@ I graduated from **California State University, Long Beach (CSULB)** and have si
 
 This GitHub is my **fresh start**. After deleting my old profile, I built this new space to showcase only my **most current, clean, and independently developed cybersecurity labs**. The work here is **completely separate from CSULB** and highlights my personal initiative. Each repository is clearly documented, visually supported, and focused on foundational red team and blue team skills. More advanced content is on the way as I continue my deep dive into ethical hacking and offensive security.
 
-Thanks for stopping by — feel free to connect. I’m always learning, always building, and ready for what’s next in cybersecurity. 🔐
-
----
-
-### 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chase%20Ridenour-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaseridenour)  
-[![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-cybercat59@outlook.com-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)](mailto:cybercat59@outlook.com)  
-[![Outlook](https://img.shields.io/badge/Outlook-cybercat59@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:cybercat59@outlook.com)
-
----
-
-### 🔍 Featured Cybersecurity Labs
-
-Each repo includes labs with clear write-ups and screenshots. These are early-phase projects as I grow into more advanced red teaming.
-
-#### 🔹 [Basic-Network-Scanning](https://github.com/cybercat59/Basic-Network-Scanning)
-A collection of basic network enumeration tools and techniques.
-- **Nmap Basics** – Simple scans with flags and output interpretation  
-- **Ping Sweep** – Host discovery in a subnet using ICMP tools  
-📸 *Screenshots included for command results and techniques*
-
-#### 🔹 [Wireshark-Traffic-Analysis](https://github.com/cybercat59/Wireshark-Traffic-Analysis)
-Analyzing packet traffic for reconnaissance and detection.
-- **HTTP Capture** – Viewing web traffic, headers, and credentials  
-- **DNS Query Analysis** – Identifying DNS tunneling and malicious lookups  
-📸 *Packet captures and filter walkthroughs provided*
-
-#### 🔹 [Metasploit-Labs](https://github.com/cybercat59/Metasploit-Labs)
-Getting started with Metasploit for offensive testing.
-- **Intro to Metasploit** – Setup and basic module usage  
-- **Exploiting Vulnerabilities** – Simulating a CVE exploit in a test lab  
-📸 *Screenshots of exploits, sessions, and outcomes included*
-
----
-
-> _“Persistence, precision, and passion – that’s what drives cybersecurity growth.”_
+Thanks for stopping by — feel free to connect.
