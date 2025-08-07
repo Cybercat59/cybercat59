@@ -1,62 +1,45 @@
-<!--
-SEO/ATS keywords (hidden):
-Red Team, Offensive Security, Penetration Testing, Ethical Hacking, OSINT, Adversary Simulation, Exploit Development, Vulnerability Assessment, Social Engineering, Network Exploitation, Web App Pentesting, Wireless Security, Physical Security, CTF, Kali Linux, Parrot OS, Metasploit, Burp Suite, Nmap, Python, Bash, PowerShell, Reverse Shells, Pivoting, Privilege Escalation, Phishing Simulation, OSCP, CEH, CompTIA Security+, AZ-900, Career Transition, Lowe's IT Support, Lifelong Learner
--->
+# 👋 Welcome to My GitHub — cybercat59
 
-<h1 align="center">Hi, I'm <a href="https://github.com/cybercat59">cybercat59</a> 🐾</h1>
+My name is **Chase**, and I'm an aspiring cybersecurity professional with a passion for **offensive security** and **red teaming**. I made a career transition into tech, starting as an intern and quickly proving myself — first as a contractor, then earning a full-time role as a **Level 1 Technical Support Technician**. Through hands-on experience and continuous growth, I was promoted to **Level 2 Technical Support Technician**, where I deepened my technical knowledge and refined my troubleshooting skills.
 
-<p align="center">
-  <img alt="Security+" src="https://img.shields.io/badge/CompTIA-Security%2B-red">
-  <img alt="AZ-900" src="https://img.shields.io/badge/Azure-AZ--900-blue">
-  <img alt="Target" src="https://img.shields.io/badge/Focus-Red%20Team%20%7C%20PenTest-success">
-  <img alt="Learning" src="https://img.shields.io/badge/Lifelong-Learner-informational">
-</p>
+I graduated from **California State University, Long Beach (CSULB)** and have since earned both the **CompTIA Security+ CE** and **Microsoft Azure Fundamentals (AZ-900)** certifications. I’m now fully committed to breaking into the cybersecurity field — specifically in **penetration testing** — and constantly improving through independent learning and real-world lab work.
 
-## About Me
-- 🎯 **Aspiring Red Teamer** and offensive security enthusiast transitioning from **Level 2 Technical Support**.
-- 🏪 Formerly with **Lowe’s**, where I honed incident response, troubleshooting, and lateral thinking under pressure.
-- 🔑 Recently earned **CompTIA Security+** and **Microsoft Azure Fundamentals (AZ-900)**.
-- 🧪 Passionate about building, breaking, and documenting — from **vulnerability discovery** to **post-exploitation**.
-  
+This GitHub is my **fresh start**. After deleting my old profile, I built this new space to showcase only my **most current, clean, and independently developed cybersecurity labs**. The work here is **completely separate from CSULB** and highlights my personal initiative. Each repository is clearly documented, visually supported, and focused on foundational red team and blue team skills. More advanced content is on the way as I continue my deep dive into ethical hacking and offensive security.
 
-## Red Team Focus Areas
-- **Recon & OSINT**: Amass intel with tools like `theHarvester`, Maltego, Recon-ng
-- **Network Exploitation**: Nmap, CrackMapExec, SMB & RDP enumeration, password spraying
-- **Web App Testing**: OWASP Top 10, Burp Suite, SQLi/XSS, SSRF, CSRF, file upload abuse
-- **Wireless Security**: WPA2 cracking, rogue AP simulation
-- **Social Engineering**: Phishing frameworks (GoPhish), payload delivery techniques
-- **Exploitation & Post-Exploitation**: Metasploit, Cobalt Strike (training), PowerShell Empire
-- **Privilege Escalation**: Linux/Windows escalation, misconfig exploitation
-- **Reporting**: Clear, actionable pen test reports for technical and executive audiences
+Thanks for stopping by — feel free to connect. I’m always learning, always building, and ready for what’s next in cybersecurity. 🔐
 
-## Highlighted Labs & Projects
-- 🕵️ **Adversary Simulation Lab** — Simulate APT-style intrusion in homelab, from initial access to data exfil  
-  Repo: [`adversary-sim-lab`](https://github.com/cybercat59/adversary-sim-lab)
-- 🐍 **Python Exploit Toolkit** — PoC scripts f enumeration, payload generation, and automation  
-  Repo: [`python-offsec-tools`](https://github.com/cybercat59/python-offsec-tools)
-- 🌐 **Web Exploitation Playground** — OWASP Top 10 attack practice with DVWA & Juice Shop  
-  Repo: [`web-pentest-playground`](https://github.com/cybercat59/web-pentest-playground)
-- 📨 **Phishing Simulation Framework** — Build and track campaigns safely in lab  
-  Repo: [`phish-lab`](https://github.com/cybercat59/phish-lab)
+---
 
-## Certifications
-- CompTIA **Security+**
-- Microsoft **Azure Fundamentals (AZ-900)**
+### 📬 Connect with Me
 
-## Recent Wins
-- Promoted to **Level 2 Technical Support** for SLA-beating resolution rates and team mentoring.
-- Built a Red Team homelab: Kali Linux, Windows AD domain, vulnerable web apps, simulated phishing campaigns.
-- Automated enumeration workflows with Python + Bash.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chase%20Ridenour-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaseridenour)  
+[![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-cybercat59@outlook.com-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)](mailto:cybercat59@outlook.com)  
+[![Outlook](https://img.shields.io/badge/Outlook-cybercat59@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:cybercat59@outlook.com)
 
-## How I Work
-- Always **document**: every finding, step, and tool used.
-- Balance stealth and speed in simulated engagements.
-- Focus on reproducible labs and clean READMEs so others can follow.
+---
 
-## Contact
-- 📧 Email: your.email@example.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-slug  
-- 📄 Resume: /resume/resume.pdf
+### 🔍 Featured Cybersecurity Labs
 
-> 💬 *“To beat an adversary, think like one — then outthink them.”*  
-If you’re looking for an **entry-level Red Team** or **penetration testing apprentice**, I’d be glad to talk.
+Each repo includes labs with clear write-ups and screenshots. These are early-phase projects as I grow into more advanced red teaming.
+
+#### 🔹 [Basic-Network-Scanning](https://github.com/cybercat59/Basic-Network-Scanning)
+A collection of basic network enumeration tools and techniques.
+- **Nmap Basics** – Simple scans with flags and output interpretation  
+- **Ping Sweep** – Host discovery in a subnet using ICMP tools  
+📸 *Screenshots included for command results and techniques*
+
+#### 🔹 [Wireshark-Traffic-Analysis](https://github.com/cybercat59/Wireshark-Traffic-Analysis)
+Analyzing packet traffic for reconnaissance and detection.
+- **HTTP Capture** – Viewing web traffic, headers, and credentials  
+- **DNS Query Analysis** – Identifying DNS tunneling and malicious lookups  
+📸 *Packet captures and filter walkthroughs provided*
+
+#### 🔹 [Metasploit-Labs](https://github.com/cybercat59/Metasploit-Labs)
+Getting started with Metasploit for offensive testing.
+- **Intro to Metasploit** – Setup and basic module usage  
+- **Exploiting Vulnerabilities** – Simulating a CVE exploit in a test lab  
+📸 *Screenshots of exploits, sessions, and outcomes included*
+
+---
+
+> _“Persistence, precision, and passion – that’s what drives cybersecurity growth.”_
