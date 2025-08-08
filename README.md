@@ -18,6 +18,25 @@ Thanks for stopping by — feel free to connect. I’m always learning, always b
 
 ---
 
+### 🏆 Certifications
+
+- Security + ce
+- AZ-900
+- Cybersecurity Professional Certificate - ThriveDX
+
+### 🎖 Badges & Awards
+
+- Offensive Security: Ethical Hacking
+- DFIR & Threat Hunting 
+- Game Theory Strategy in Cybersecurity
+- Cyber Infrastructure and Technology
+- Introduction to Python for Security
+- Network Security
+- Linux Security
+- AWS Cloud Security
+- Microsoft Enterprise Security
+- Intro Cisco Networking 
+
 ### 🔍 Featured Cybersecurity Labs
 
 Each repo includes labs with clear write-ups and screenshots. These are early-phase projects as I grow into more advanced red teaming.
@@ -42,4 +61,4 @@ Getting started with Metasploit for offensive testing.
 
 ---
 
-> _“Persistence, precision, and passion – that’s what drives cybersecurity growth.”_
+> _“Persistence, precision, and passion”_
